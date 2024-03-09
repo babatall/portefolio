@@ -16,7 +16,8 @@
                 <li><a href="">A propos</a></li>
                 <li><a href="">Mes Projet</a></li>
                 <li><a href="">CV</a></li>
-                <li><a href="">Contact</a></li>
+                <li><a href="" class="contact-btn">Contact</a></li>
+
             </ul>
         </nav>
     </header>
